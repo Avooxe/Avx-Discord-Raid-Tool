@@ -1,0 +1,11 @@
+Codé par kloozy : ne pas utiliser ce tool sans accord et créditation
+
+
+préfix du bot : $
+
+$nuke : supprimme tous les salons et en créer 500 autres
+$spam : spam un message en @everyone
+$cdel : supprime tous les salons
+$ccr : ajoute 500 salons
+
+sur ce , amusez vous bien !
